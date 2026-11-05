@@ -1,2 +1,0 @@
-# sushi
-Sushi Lovers
